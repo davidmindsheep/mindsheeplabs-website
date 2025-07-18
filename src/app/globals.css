@@ -1,0 +1,220 @@
+@import "tailwindcss";
+
+/* Figma Color Variables */
+:root {
+  --white: #ffffff;
+  --color-2: #1e1e1e;
+  --color-3: #252525;
+  --gray-900: #000000;
+  --color-5: #fd5400;
+  --color-6: #f4f4f4;
+  --color-7: #bd4bf8;
+  
+  /* Default background/foreground for consistency */
+  --background: var(--white);
+  --foreground: var(--gray-900);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: 'Quicksand', system-ui, sans-serif;
+}
+
+/* Typography Scale from Figma */
+.text-xs { font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem); }
+.text-sm { font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem); }
+.text-base { font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem); }
+.text-lg { font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem); }
+.text-xl { font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem); }
+.text-2xl { font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem); }
+.text-3xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-4xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-5xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+
+.text-35xl { font-size: clamp(1.8rem, 2.25rem + 0.5vw, 2.6999999999999997rem); }
+.text-36xl { font-size: clamp(1.8rem, 2.25rem + 0.5vw, 2.6999999999999997rem); }
+.text-37xl { font-size: clamp(1.8rem, 2.25rem + 0.5vw, 2.6999999999999997rem); }
+.text-38xl { font-size: clamp(2.3000000000000003rem, 2.875rem + 0.5vw, 3.4499999999999997rem); }
+.text-39xl { font-size: clamp(2.3000000000000003rem, 2.875rem + 0.5vw, 3.4499999999999997rem); }
+
+/* Component Styles from Figma */
+.hero-headline {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(2.3000000000000003rem, 2.875rem + 0.5vw, 3.4499999999999997rem);
+  line-height: 55px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: var(--gray-900);
+}
+
+.hero-subheadline {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: var(--gray-900);
+}
+
+.s2-headline {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(1.8rem, 2.25rem + 0.5vw, 2.6999999999999997rem);
+  line-height: 45px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: var(--gray-900);
+}
+
+.s3-headline {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(1.8rem, 2.25rem + 0.5vw, 2.6999999999999997rem);
+  line-height: 45px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: var(--gray-900);
+}
+
+.s4-headline {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(1.8rem, 2.25rem + 0.5vw, 2.6999999999999997rem);
+  line-height: 45px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: var(--gray-900);
+}
+
+.s5-headline {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(2.3000000000000003rem, 2.875rem + 0.5vw, 3.4499999999999997rem);
+  line-height: 57.5px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: var(--gray-900);
+}
+
+.button-label {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: var(--gray-900);
+}
+
+.benefit-header {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: var(--gray-900);
+}
+
+.benefit-body {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem);
+  line-height: 17.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: var(--gray-900);
+}
+
+.body-text {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  color: var(--gray-900);
+}
+
+.nav-text {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: var(--gray-900);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: 'Quicksand', system-ui, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Utility classes for bubble animations */
+.bubble-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.bubble-float-delayed {
+  animation: float 6s ease-in-out infinite;
+  animation-delay: 2s;
+}
+
+.bubble-float-slow {
+  animation: float 8s ease-in-out infinite;
+  animation-delay: 1s;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  25% {
+    transform: translateY(-10px) rotate(1deg);
+  }
+  50% {
+    transform: translateY(-5px) rotate(0deg);
+  }
+  75% {
+    transform: translateY(-15px) rotate(-1deg);
+  }
+}
+
+/* Button styles */
+.cta-button {
+  background: var(--color-5);
+  color: var(--white);
+  border-radius: 8px;
+  border: none;
+  padding: 12px 24px;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.cta-button:hover {
+  background: #e64900;
+  transform: translateY(-2px);
+}
+
+/* Marquee Animation */
+@keyframes marquee {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.animate-marquee {
+  animation: marquee 20s linear infinite;
+}

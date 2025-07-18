@@ -1,0 +1,1291 @@
+{
+  "breakpoints": {
+    "suggested": [
+      {
+        "name": "sm",
+        "px": 360,
+        "rem": 22.5,
+        "usage": "0/1 content widths"
+      },
+      {
+        "name": "md",
+        "px": 768,
+        "rem": 48,
+        "usage": "0/1 content widths"
+      },
+      {
+        "name": "lg",
+        "px": 1024,
+        "rem": 64,
+        "usage": "0/1 content widths"
+      },
+      {
+        "name": "xl",
+        "px": 1440,
+        "rem": 90,
+        "usage": "0/1 content widths"
+      }
+    ],
+    "contentWidths": [
+      null
+    ],
+    "recommendation": "mobile-first"
+  },
+  "layoutPatterns": {
+    "Element Background/Latest - 09JUL2025": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Footer": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Footer Contents": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Footer Text": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Footer Quick Links": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Page Links": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Mission & Vision": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Benefits": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/About Us": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Contact Details": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Email": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Number": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Copyright Label": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Footer Watermark": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S5": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Frame 2": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S5 Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Frame 3": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S5 Subheadline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Frame 1": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Button": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Button Label": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S3": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S3 Contents": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S3 Header": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S3 Label": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S3 Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Benefits 1": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/High Voltage": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/B1 Header": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/B1 Body": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Benefits 2": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Magic Wand": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/B2 Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/B2 Body": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Benefits 3": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Direct Hit": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/B3 Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/B3 Body": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Benefits 4": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Magnet": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/B4 Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/B4 Body": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Benefits 5": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Gear": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/B5 Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/B5 Body": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Benefits 6": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Mechanical Arm": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/B6 Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/B6 Body": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S2": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S2 Contents": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S2 Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S2 Body 1": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S2 Body 2": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S2 Body 3": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S2 Body 4": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Hero": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Contents": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Navigation Bar": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Frame 11": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Logo": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Logo MArk": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Page Tabs": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Frame 8": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Home": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Frame 9": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Frame 10": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Contact": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Hero Header": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Frame 7": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Hero Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Frame 6": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Hero Subheadline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/Made for Marketers by Marketers ✦ Powered by AI ✦ Made for Marketers by Marketers ✦ Powered by AI ✦ Made for Marketers by Marketers": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S4": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S4 Contents": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S4 Body 4": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S4 Body 3": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S4 Body 2": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S4 Body 1": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S4 Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "Element Background/S4 Label": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Latest - 09JUL2025": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Footer": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Footer Contents": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Footer Text": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Footer Quick Links": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Page Links": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Mission & Vision": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Benefits": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/About Us": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Contact Details": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Email": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Number": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Copyright Label": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Footer Watermark": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S4": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S4 Contents": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S4 Body 4": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S4 Body 3": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S4 Body 2": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S4 Body 1": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S4 Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S4 Label": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S3": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S3 Contents": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S3 Header": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S3 Label": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S3 Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Benefits 1": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/High Voltage": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/B1 Header": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/B1 Body": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Benefits 2": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Magic Wand": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/B2 Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/B2 Body": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Benefits 3": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Direct Hit": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/B3 Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/B3 Body": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Benefits 4": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Magnet": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/B4 Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/B4 Body": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Benefits 5": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Gear": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/B5 Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/B5 Body": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Benefits 6": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Mechanical Arm": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/B6 Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/B6 Body": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Button": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Button Label": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S2": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S2 Contents": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S2 Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S2 Body 1": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S2 Body 2": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S2 Body 3": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S2 Body 4": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S5": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Frame 2": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S5 Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Frame 3": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/S5 Subheadline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Frame 1": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Hero": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Contents": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Navigation Bar": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Frame 11": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Logo": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Page Tabs": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Frame 8": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Home": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Frame 9": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Frame 10": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Contact": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Hero Header": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Frame 7": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Hero Headline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Frame 6": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Hero Subheadline": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    },
+    "PNG background/Made for Marketers by Marketers ✦ Powered by AI ✦ Made for Marketers by Marketers ✦ Powered by AI ✦ Made for Marketers by Marketers": {
+      "desktop": "flex-row",
+      "tablet": "flex-col",
+      "mobile": "flex-col",
+      "containerQuery": true,
+      "stackingOrder": "visual-order"
+    }
+  },
+  "fluidTypography": {
+    "scale": {},
+    "families": [],
+    "weights": [],
+    "lineHeights": []
+  },
+  "spacingScale": {
+    "scale": {
+      "0": {
+        "px": 0,
+        "rem": 0
+      },
+      "1": {
+        "px": 12,
+        "rem": 0.75
+      },
+      "2": {
+        "px": 16,
+        "rem": 1
+      },
+      "3": {
+        "px": 84,
+        "rem": 5.25
+      },
+      "4": {
+        "px": 88,
+        "rem": 5.5
+      },
+      "5": {
+        "px": 100,
+        "rem": 6.25
+      },
+      "6": {
+        "px": 104,
+        "rem": 6.5
+      },
+      "8": {
+        "px": 112,
+        "rem": 7
+      },
+      "10": {
+        "px": 116,
+        "rem": 7.25
+      },
+      "12": {
+        "px": 164,
+        "rem": 10.25
+      }
+    },
+    "grid": 4,
+    "values": [
+      0,
+      12,
+      16,
+      84,
+      88,
+      100,
+      104,
+      112,
+      116,
+      164
+    ]
+  },
+  "imageStrategy": {},
+  "accessibility": {
+    "landmarks": [
+      {
+        "section": "Element Background",
+        "tag": "main"
+      },
+      {
+        "section": "PNG background",
+        "tag": "main"
+      }
+    ],
+    "headingHierarchy": [],
+    "readingOrder": [],
+    "altTextTodos": []
+  },
+  "risks": [
+    {
+      "type": "missing-mobile-states",
+      "severity": "high",
+      "message": "No mobile-specific layouts detected. May need manual responsive breakdowns."
+    }
+  ]
+}

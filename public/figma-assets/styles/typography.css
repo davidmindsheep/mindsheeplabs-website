@@ -1,0 +1,431 @@
+/* Typography Scale */
+.text-xs { font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem); }
+.text-sm { font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem); }
+.text-base { font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem); }
+.text-lg { font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem); }
+.text-xl { font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem); }
+.text-2xl { font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem); }
+.text-3xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-4xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-5xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-10xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-11xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-12xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-13xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-14xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-15xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-16xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-17xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-18xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-19xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-20xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-21xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-22xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-23xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-24xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-25xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-26xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-27xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-28xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-29xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-30xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-31xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-32xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-33xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-34xl { font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem); }
+.text-35xl { font-size: clamp(1.8rem, 2.25rem + 0.5vw, 2.6999999999999997rem); }
+.text-36xl { font-size: clamp(1.8rem, 2.25rem + 0.5vw, 2.6999999999999997rem); }
+.text-37xl { font-size: clamp(1.8rem, 2.25rem + 0.5vw, 2.6999999999999997rem); }
+.text-38xl { font-size: clamp(2.3000000000000003rem, 2.875rem + 0.5vw, 3.4499999999999997rem); }
+.text-39xl { font-size: clamp(2.3000000000000003rem, 2.875rem + 0.5vw, 3.4499999999999997rem); }
+
+/* Component Styles */
+.mission-vision {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+
+.benefits {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #000000;
+}
+
+.about-us {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+
+.email {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+
+.number {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+
+.copyright-label {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+
+.s5-headline {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(2.3000000000000003rem, 2.875rem + 0.5vw, 3.4499999999999997rem);
+  line-height: 57.5px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #000000;
+}
+
+.s5-subheadline {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #000000;
+}
+
+.button-label {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #000000;
+}
+
+.s3-label {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 500;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #000000;
+}
+
+.s3-headline {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(1.8rem, 2.25rem + 0.5vw, 2.6999999999999997rem);
+  line-height: 45px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #000000;
+}
+
+.b1-header {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+
+.b1-body {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem);
+  line-height: 17.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+
+.b2-headline {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+
+.b2-body {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem);
+  line-height: 17.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+
+.b3-headline {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+
+.b3-body {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem);
+  line-height: 17.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+
+.b4-headline {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+
+.b4-body {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem);
+  line-height: 17.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+
+.b5-headline {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+
+.b5-body {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem);
+  line-height: 17.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+
+.b6-headline {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+
+.b6-body {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.875rem, 0.875rem + 0.5vw, 1.05rem);
+  line-height: 17.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+
+.s2-headline {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(1.8rem, 2.25rem + 0.5vw, 2.6999999999999997rem);
+  line-height: 45px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #000000;
+}
+
+.s2-body-1 {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #000000;
+}
+
+.s2-body-2 {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #000000;
+}
+
+.s2-body-3 {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #000000;
+}
+
+.s2-body-4 {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #000000;
+}
+
+.home {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #000000;
+}
+
+.contact {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #000000;
+}
+
+.hero-headline {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(2.3000000000000003rem, 2.875rem + 0.5vw, 3.4499999999999997rem);
+  line-height: 55px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #000000;
+}
+
+.hero-subheadline {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #000000;
+}
+
+.made-for-marketers-by-marketers-powered-by-ai-made {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #000000;
+}
+
+.s4-body-4 {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: justified;
+  color: #000000;
+}
+
+.s4-body-3 {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: justified;
+  color: #000000;
+}
+
+.s4-body-2 {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: justified;
+  color: #000000;
+}
+
+.s4-body-1 {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: justified;
+  color: #000000;
+}
+
+.s4-headline {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: clamp(1.8rem, 2.25rem + 0.5vw, 2.6999999999999997rem);
+  line-height: 45px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+
+.s4-label {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 500;
+  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
+  line-height: 22.5px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}

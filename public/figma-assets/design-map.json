@@ -1,0 +1,4780 @@
+{
+  "Element Background": {
+    "Latest - 09JUL2025": {
+      "id": "1:27",
+      "name": "Latest - 09JUL2025",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 3348
+      },
+      "category": "general",
+      "filename": "latest---09jul2025@2x.png",
+      "relativePath": "images/general/latest---09jul2025@2x.png"
+    },
+    "Footer": {
+      "id": "1:28",
+      "name": "Footer",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/footer",
+      "bounds": {
+        "x": 0,
+        "y": 2960,
+        "width": 1280,
+        "height": 388
+      },
+      "category": "general",
+      "filename": "footer@2x.png",
+      "relativePath": "images/general/footer@2x.png"
+    },
+    "Footer Contents": {
+      "id": "1:29",
+      "name": "Footer Contents",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/footer/footer-contents",
+      "bounds": {
+        "x": 86,
+        "y": 3013,
+        "width": 1108,
+        "height": 335
+      },
+      "category": "general",
+      "filename": "footer-contents@2x.png",
+      "relativePath": "images/general/footer-contents@2x.png"
+    },
+    "Footer Text": {
+      "id": "1:30",
+      "name": "Footer Text",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/footer/footer-contents/footer-text",
+      "bounds": {
+        "x": 86,
+        "y": 3013,
+        "width": 1108,
+        "height": 109
+      },
+      "category": "general",
+      "filename": "footer-text@2x.png",
+      "relativePath": "images/general/footer-text@2x.png"
+    },
+    "Footer Quick Links": {
+      "id": "1:31",
+      "name": "Footer Quick Links",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/footer/footer-contents/footer-text/footer-quick-links",
+      "bounds": {
+        "x": 86,
+        "y": 3013,
+        "width": 419,
+        "height": 109
+      },
+      "category": "general",
+      "filename": "footer-quick-links@2x.png",
+      "relativePath": "images/general/footer-quick-links@2x.png"
+    },
+    "Page Links": {
+      "id": "1:32",
+      "name": "Page Links",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/footer/footer-contents/footer-text/footer-quick-links/page-links",
+      "bounds": {
+        "x": 86,
+        "y": 3013,
+        "width": 133,
+        "height": 109
+      },
+      "category": "general",
+      "filename": "page-links@2x.png",
+      "relativePath": "images/general/page-links@2x.png"
+    },
+    "Mission & Vision": {
+      "id": "1:33",
+      "name": "Mission & Vision",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/footer/footer-contents/footer-text/footer-quick-links/page-links/mission-vision",
+      "bounds": {
+        "x": 86,
+        "y": 3013,
+        "width": 133,
+        "height": 23
+      },
+      "textContent": "Mission & Vision",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "mission-vision@2x.png",
+      "relativePath": "images/general/mission-vision@2x.png"
+    },
+    "Benefits": {
+      "id": "I1:104;127:56",
+      "name": "Benefits",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/contents/navigation-bar/page-tabs/frame-9/benefits/benefits",
+      "bounds": {
+        "x": 587,
+        "y": 114,
+        "width": 68,
+        "height": 23
+      },
+      "textContent": "Benefits",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "WIDTH_AND_HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "benefits@2x.png",
+      "relativePath": "images/general/benefits@2x.png"
+    },
+    "About Us": {
+      "id": "1:35",
+      "name": "About Us",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/footer/footer-contents/footer-text/footer-quick-links/page-links/about-us",
+      "bounds": {
+        "x": 86,
+        "y": 3099,
+        "width": 133,
+        "height": 23
+      },
+      "textContent": "About Us",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "about-us@2x.png",
+      "relativePath": "images/general/about-us@2x.png"
+    },
+    "Contact Details": {
+      "id": "1:36",
+      "name": "Contact Details",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/footer/footer-contents/footer-text/footer-quick-links/contact-details",
+      "bounds": {
+        "x": 330,
+        "y": 3013,
+        "width": 175,
+        "height": 66
+      },
+      "category": "general",
+      "filename": "contact-details@2x.png",
+      "relativePath": "images/general/contact-details@2x.png"
+    },
+    "Email": {
+      "id": "1:37",
+      "name": "Email",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/footer/footer-contents/footer-text/footer-quick-links/contact-details/email",
+      "bounds": {
+        "x": 330,
+        "y": 3013,
+        "width": 175,
+        "height": 23
+      },
+      "textContent": "example@email.com",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "email@2x.png",
+      "relativePath": "images/general/email@2x.png"
+    },
+    "Number": {
+      "id": "1:38",
+      "name": "Number",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/footer/footer-contents/footer-text/footer-quick-links/contact-details/number",
+      "bounds": {
+        "x": 330,
+        "y": 3056,
+        "width": 175,
+        "height": 23
+      },
+      "textContent": "+12 345 678",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "number@2x.png",
+      "relativePath": "images/general/number@2x.png"
+    },
+    "Copyright Label": {
+      "id": "1:39",
+      "name": "Copyright Label",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/footer/footer-contents/footer-text/copyright-label",
+      "bounds": {
+        "x": 833,
+        "y": 3013,
+        "width": 361,
+        "height": 23
+      },
+      "textContent": "MindsheepLabs © 2025 All Rights Reserved",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "copyright-label@2x.png",
+      "relativePath": "images/general/copyright-label@2x.png"
+    },
+    "Footer Watermark": {
+      "id": "1:40",
+      "name": "Footer Watermark",
+      "type": "INSTANCE",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/footer/footer-contents/footer-watermark",
+      "bounds": {
+        "x": 86,
+        "y": 3199,
+        "width": 1108,
+        "height": 149
+      },
+      "category": "general",
+      "filename": "footer-watermark@2x.png",
+      "relativePath": "images/general/footer-watermark@2x.png"
+    },
+    "S5": {
+      "id": "8:171",
+      "name": "S5",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s5",
+      "bounds": {
+        "x": 0,
+        "y": 2510,
+        "width": 1280,
+        "height": 450
+      },
+      "category": "general",
+      "filename": "s5@2x.png",
+      "relativePath": "images/general/s5@2x.png"
+    },
+    "Frame 2": {
+      "id": "1:114",
+      "name": "Frame 2",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/frame-1/frame-2",
+      "bounds": {
+        "x": 15,
+        "y": 11,
+        "width": 1250,
+        "height": 23
+      },
+      "category": "general",
+      "filename": "frame-2@2x.png",
+      "relativePath": "images/general/frame-2@2x.png"
+    },
+    "S5 Headline": {
+      "id": "8:173",
+      "name": "S5 Headline",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s5/frame-2/s5-headline",
+      "bounds": {
+        "x": 269,
+        "y": 2632,
+        "width": 743,
+        "height": 58
+      },
+      "textContent": "Ready to explore what's possible?",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "WIDTH_AND_HEIGHT",
+        "fontSize": 46,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 57.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s5-headline@2x.png",
+      "relativePath": "images/general/s5-headline@2x.png"
+    },
+    "Frame 3": {
+      "id": "8:174",
+      "name": "Frame 3",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s5/frame-3",
+      "bounds": {
+        "x": 545,
+        "y": 2724,
+        "width": 191,
+        "height": 23
+      },
+      "category": "general",
+      "filename": "frame-3@2x.png",
+      "relativePath": "images/general/frame-3@2x.png"
+    },
+    "S5 Subheadline": {
+      "id": "8:175",
+      "name": "S5 Subheadline",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s5/frame-3/s5-subheadline",
+      "bounds": {
+        "x": 545,
+        "y": 2724,
+        "width": 191,
+        "height": 23
+      },
+      "textContent": "Let's discover together.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "WIDTH_AND_HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s5-subheadline@2x.png",
+      "relativePath": "images/general/s5-subheadline@2x.png"
+    },
+    "Frame 1": {
+      "id": "1:113",
+      "name": "Frame 1",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/frame-1",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 45
+      },
+      "category": "general",
+      "filename": "frame-1@2x.png",
+      "relativePath": "images/general/frame-1@2x.png"
+    },
+    "Button": {
+      "id": "1:116",
+      "name": "Button",
+      "type": "INSTANCE",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/button",
+      "bounds": {
+        "x": 532,
+        "y": 526,
+        "width": 216,
+        "height": 49
+      },
+      "category": "components",
+      "filename": "button@2x.png",
+      "relativePath": "images/components/button@2x.png"
+    },
+    "Button Label": {
+      "id": "I1:116;2033:490",
+      "name": "Button Label",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/button/button-label",
+      "bounds": {
+        "x": 590,
+        "y": 539,
+        "width": 100,
+        "height": 23
+      },
+      "textContent": "Get Started",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "WIDTH_AND_HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "components",
+      "filename": "button-label@2x.png",
+      "relativePath": "images/components/button-label@2x.png"
+    },
+    "S3": {
+      "id": "1:49",
+      "name": "S3",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3",
+      "bounds": {
+        "x": 0,
+        "y": 1222,
+        "width": 1280,
+        "height": 848
+      },
+      "category": "general",
+      "filename": "s3@2x.png",
+      "relativePath": "images/general/s3@2x.png"
+    },
+    "S3 Contents": {
+      "id": "1:50",
+      "name": "S3 Contents",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents",
+      "bounds": {
+        "x": 85,
+        "y": 1294,
+        "width": 1110,
+        "height": 704
+      },
+      "category": "general",
+      "filename": "s3-contents@2x.png",
+      "relativePath": "images/general/s3-contents@2x.png"
+    },
+    "S3 Header": {
+      "id": "1:51",
+      "name": "S3 Header",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/s3-header",
+      "bounds": {
+        "x": 85,
+        "y": 1295,
+        "width": 1110,
+        "height": 100
+      },
+      "category": "general",
+      "filename": "s3-header@2x.png",
+      "relativePath": "images/general/s3-header@2x.png"
+    },
+    "S3 Label": {
+      "id": "1:52",
+      "name": "S3 Label",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/s3-header/s3-label",
+      "bounds": {
+        "x": 576,
+        "y": 1295,
+        "width": 129,
+        "height": 23
+      },
+      "textContent": "Benefits",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Medium",
+        "fontStyle": "Medium",
+        "fontWeight": 500,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568632125854,
+            "g": 0.3294117748737335,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s3-label@2x.png",
+      "relativePath": "images/general/s3-label@2x.png"
+    },
+    "S3 Headline": {
+      "id": "1:53",
+      "name": "S3 Headline",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/s3-header/s3-headline",
+      "bounds": {
+        "x": 85,
+        "y": 1350,
+        "width": 1110,
+        "height": 45
+      },
+      "textContent": "What happens when you stop accepting marketing limitations?",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 36,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 45,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s3-headline@2x.png",
+      "relativePath": "images/general/s3-headline@2x.png"
+    },
+    "Benefits 1": {
+      "id": "1:55",
+      "name": "Benefits 1",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-1",
+      "bounds": {
+        "x": 88,
+        "y": 1427,
+        "width": 356,
+        "height": 237
+      },
+      "category": "general",
+      "filename": "benefits-1@2x.png",
+      "relativePath": "images/general/benefits-1@2x.png"
+    },
+    "High Voltage": {
+      "id": "1:56",
+      "name": "High Voltage",
+      "type": "INSTANCE",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-1/high-voltage",
+      "bounds": {
+        "x": 110,
+        "y": 1447,
+        "width": 38,
+        "height": 38
+      },
+      "category": "general",
+      "filename": "high-voltage@2x.png",
+      "relativePath": "images/general/high-voltage@2x.png"
+    },
+    "B1 Header": {
+      "id": "1:57",
+      "name": "B1 Header",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-1/b1-header",
+      "bounds": {
+        "x": 110,
+        "y": 1496,
+        "width": 300,
+        "height": 46
+      },
+      "textContent": "Brand-Consistent Imagery at Inhuman Speed",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b1-header@2x.png",
+      "relativePath": "images/general/b1-header@2x.png"
+    },
+    "B1 Body": {
+      "id": "1:58",
+      "name": "B1 Body",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-1/b1-body",
+      "bounds": {
+        "x": 110,
+        "y": 1553,
+        "width": 300,
+        "height": 90
+      },
+      "textContent": "Why hire 10 models when one can become 100? We're exploring AI image generation with face consistency—authorized individual replication that lets your brand personalities show up everywhere.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 14,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 17.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b1-body@2x.png",
+      "relativePath": "images/general/b1-body@2x.png"
+    },
+    "Benefits 2": {
+      "id": "1:59",
+      "name": "Benefits 2",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-2",
+      "bounds": {
+        "x": 462,
+        "y": 1427,
+        "width": 356,
+        "height": 237
+      },
+      "category": "general",
+      "filename": "benefits-2@2x.png",
+      "relativePath": "images/general/benefits-2@2x.png"
+    },
+    "Magic Wand": {
+      "id": "1:60",
+      "name": "Magic Wand",
+      "type": "INSTANCE",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-2/magic-wand",
+      "bounds": {
+        "x": 490,
+        "y": 1448,
+        "width": 36,
+        "height": 36
+      },
+      "category": "general",
+      "filename": "magic-wand@2x.png",
+      "relativePath": "images/general/magic-wand@2x.png"
+    },
+    "B2 Headline": {
+      "id": "1:61",
+      "name": "B2 Headline",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-2/b2-headline",
+      "bounds": {
+        "x": 490,
+        "y": 1494,
+        "width": 300,
+        "height": 46
+      },
+      "textContent": "Marketing Automation That Doesn't Feel Automated",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b2-headline@2x.png",
+      "relativePath": "images/general/b2-headline@2x.png"
+    },
+    "B2 Body": {
+      "id": "1:62",
+      "name": "B2 Body",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-2/b2-body",
+      "bounds": {
+        "x": 490,
+        "y": 1550,
+        "width": 300,
+        "height": 90
+      },
+      "textContent": "Campaigns that generate content automatically but nothing goes live without your approval. Human-guided automation that scales your output without sacrificing your voice.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 14,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 17.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b2-body@2x.png",
+      "relativePath": "images/general/b2-body@2x.png"
+    },
+    "Benefits 3": {
+      "id": "1:63",
+      "name": "Benefits 3",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-3",
+      "bounds": {
+        "x": 836,
+        "y": 1427,
+        "width": 356,
+        "height": 237
+      },
+      "category": "general",
+      "filename": "benefits-3@2x.png",
+      "relativePath": "images/general/benefits-3@2x.png"
+    },
+    "Direct Hit": {
+      "id": "1:64",
+      "name": "Direct Hit",
+      "type": "INSTANCE",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-3/direct-hit",
+      "bounds": {
+        "x": 864,
+        "y": 1444,
+        "width": 36,
+        "height": 36
+      },
+      "category": "general",
+      "filename": "direct-hit@2x.png",
+      "relativePath": "images/general/direct-hit@2x.png"
+    },
+    "B3 Headline": {
+      "id": "1:65",
+      "name": "B3 Headline",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-3/b3-headline",
+      "bounds": {
+        "x": 864,
+        "y": 1494,
+        "width": 300,
+        "height": 46
+      },
+      "textContent": "Business Processes That Actually Process",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b3-headline@2x.png",
+      "relativePath": "images/general/b3-headline@2x.png"
+    },
+    "B3 Body": {
+      "id": "1:66",
+      "name": "B3 Body",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-3/b3-body",
+      "bounds": {
+        "x": 864,
+        "y": 1554,
+        "width": 287,
+        "height": 72
+      },
+      "textContent": "Email sequences, proposals, workflow bottlenecks—we're automating the stuff eating your team's time so they can focus on work that moves needles.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 14,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 17.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b3-body@2x.png",
+      "relativePath": "images/general/b3-body@2x.png"
+    },
+    "Benefits 4": {
+      "id": "1:67",
+      "name": "Benefits 4",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-4",
+      "bounds": {
+        "x": 88,
+        "y": 1680,
+        "width": 356,
+        "height": 237
+      },
+      "category": "general",
+      "filename": "benefits-4@2x.png",
+      "relativePath": "images/general/benefits-4@2x.png"
+    },
+    "Magnet": {
+      "id": "1:68",
+      "name": "Magnet",
+      "type": "INSTANCE",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-4/magnet",
+      "bounds": {
+        "x": 110,
+        "y": 1705,
+        "width": 31,
+        "height": 31
+      },
+      "category": "general",
+      "filename": "magnet@2x.png",
+      "relativePath": "images/general/magnet@2x.png"
+    },
+    "B4 Headline": {
+      "id": "1:69",
+      "name": "B4 Headline",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-4/b4-headline",
+      "bounds": {
+        "x": 110,
+        "y": 1749,
+        "width": 300,
+        "height": 46
+      },
+      "textContent": "Lead Magnets With Built-In Sales Teams",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b4-headline@2x.png",
+      "relativePath": "images/general/b4-headline@2x.png"
+    },
+    "B4 Body": {
+      "id": "1:70",
+      "name": "B4 Body",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-4/b4-body",
+      "bounds": {
+        "x": 110,
+        "y": 1808,
+        "width": 300,
+        "height": 72
+      },
+      "textContent": "Lead magnets that analyze prospects and generate custom proposals automatically. Your funnel becomes a conversion machine that works while you sleep.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 14,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 17.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b4-body@2x.png",
+      "relativePath": "images/general/b4-body@2x.png"
+    },
+    "Benefits 5": {
+      "id": "1:71",
+      "name": "Benefits 5",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-5",
+      "bounds": {
+        "x": 462,
+        "y": 1680,
+        "width": 356,
+        "height": 237
+      },
+      "category": "general",
+      "filename": "benefits-5@2x.png",
+      "relativePath": "images/general/benefits-5@2x.png"
+    },
+    "Gear": {
+      "id": "1:72",
+      "name": "Gear",
+      "type": "INSTANCE",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-5/gear",
+      "bounds": {
+        "x": 490,
+        "y": 1704,
+        "width": 36,
+        "height": 36
+      },
+      "category": "general",
+      "filename": "gear@2x.png",
+      "relativePath": "images/general/gear@2x.png"
+    },
+    "B5 Headline": {
+      "id": "1:73",
+      "name": "B5 Headline",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-5/b5-headline",
+      "bounds": {
+        "x": 490,
+        "y": 1750,
+        "width": 300,
+        "height": 46
+      },
+      "textContent": "Innovation Partnership, Not Vendor Relationship",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b5-headline@2x.png",
+      "relativePath": "images/general/b5-headline@2x.png"
+    },
+    "B5 Body": {
+      "id": "1:74",
+      "name": "B5 Body",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-5/b5-body",
+      "bounds": {
+        "x": 490,
+        "y": 1806,
+        "width": 300,
+        "height": 72
+      },
+      "textContent": "You're getting early access to marketing's future. As we discover what works, you're first in line for breakthroughs that'll make competitors scramble.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 14,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 17.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b5-body@2x.png",
+      "relativePath": "images/general/b5-body@2x.png"
+    },
+    "Benefits 6": {
+      "id": "1:75",
+      "name": "Benefits 6",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-6",
+      "bounds": {
+        "x": 836,
+        "y": 1680,
+        "width": 356,
+        "height": 237
+      },
+      "category": "general",
+      "filename": "benefits-6@2x.png",
+      "relativePath": "images/general/benefits-6@2x.png"
+    },
+    "Mechanical Arm": {
+      "id": "1:76",
+      "name": "Mechanical Arm",
+      "type": "INSTANCE",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-6/mechanical-arm",
+      "bounds": {
+        "x": 864,
+        "y": 1701,
+        "width": 33,
+        "height": 33
+      },
+      "category": "general",
+      "filename": "mechanical-arm@2x.png",
+      "relativePath": "images/general/mechanical-arm@2x.png"
+    },
+    "B6 Headline": {
+      "id": "1:77",
+      "name": "B6 Headline",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-6/b6-headline",
+      "bounds": {
+        "x": 864,
+        "y": 1758,
+        "width": 300,
+        "height": 23
+      },
+      "textContent": "Super-Employee Transformation",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b6-headline@2x.png",
+      "relativePath": "images/general/b6-headline@2x.png"
+    },
+    "B6 Body": {
+      "id": "1:78",
+      "name": "B6 Body",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s3/s3-contents/benefits/benefits-6/b6-body",
+      "bounds": {
+        "x": 864,
+        "y": 1805,
+        "width": 287,
+        "height": 90
+      },
+      "textContent": "What if your team could work at AI speed? We're exploring marketing automation and business process AI that turns your people into super-employees who accomplish in hours what used to take days.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 14,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 17.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b6-body@2x.png",
+      "relativePath": "images/general/b6-body@2x.png"
+    },
+    "S2": {
+      "id": "1:80",
+      "name": "S2",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s2",
+      "bounds": {
+        "x": 0,
+        "y": 700,
+        "width": 1280,
+        "height": 522
+      },
+      "category": "general",
+      "filename": "s2@2x.png",
+      "relativePath": "images/general/s2@2x.png"
+    },
+    "S2 Contents": {
+      "id": "1:81",
+      "name": "S2 Contents",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s2/s2-contents",
+      "bounds": {
+        "x": 202,
+        "y": 787,
+        "width": 876,
+        "height": 348
+      },
+      "category": "general",
+      "filename": "s2-contents@2x.png",
+      "relativePath": "images/general/s2-contents@2x.png"
+    },
+    "S2 Headline": {
+      "id": "1:82",
+      "name": "S2 Headline",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s2/s2-contents/s2-headline",
+      "bounds": {
+        "x": 209,
+        "y": 787,
+        "width": 862,
+        "height": 45
+      },
+      "textContent": "Here's what's killing your marketing ROI right now.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "WIDTH_AND_HEIGHT",
+        "fontSize": 36,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 45,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568632125854,
+            "g": 0.3294117748737335,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s2-headline@2x.png",
+      "relativePath": "images/general/s2-headline@2x.png"
+    },
+    "S2 Body 1": {
+      "id": "1:83",
+      "name": "S2 Body 1",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s2/s2-contents/s2-body-1",
+      "bounds": {
+        "x": 229,
+        "y": 856,
+        "width": 822,
+        "height": 46
+      },
+      "textContent": "You're burning budget on generic stock photos. Waiting weeks for creative that's outdated before it launches. Watching competitors move faster while you're stuck in revision hell.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s2-body-1@2x.png",
+      "relativePath": "images/general/s2-body-1@2x.png"
+    },
+    "S2 Body 2": {
+      "id": "1:84",
+      "name": "S2 Body 2",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s2/s2-contents/s2-body-2",
+      "bounds": {
+        "x": 229,
+        "y": 926,
+        "width": 822,
+        "height": 46
+      },
+      "textContent": "MindsheepLabs is exploring the frontier of AI-powered marketing—and we're taking select partners along for the ride. We're not replacing your team. We're giving them superpowers.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s2-body-2@2x.png",
+      "relativePath": "images/general/s2-body-2@2x.png"
+    },
+    "S2 Body 3": {
+      "id": "1:85",
+      "name": "S2 Body 3",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s2/s2-contents/s2-body-3",
+      "bounds": {
+        "x": 229,
+        "y": 996,
+        "width": 822,
+        "height": 69
+      },
+      "textContent": "Custom AI imagery with face consistency. Marketing automation with human control. Business processes that run themselves. Lead magnets that analyze prospects and write proposals automatically.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s2-body-3@2x.png",
+      "relativePath": "images/general/s2-body-3@2x.png"
+    },
+    "S2 Body 4": {
+      "id": "1:86",
+      "name": "S2 Body 4",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/s2/s2-contents/s2-body-4",
+      "bounds": {
+        "x": 229,
+        "y": 1089,
+        "width": 822,
+        "height": 46
+      },
+      "textContent": "We're in discovery mode, testing what's possible, and we want marketers who aren't afraid to be first.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s2-body-4@2x.png",
+      "relativePath": "images/general/s2-body-4@2x.png"
+    },
+    "Hero": {
+      "id": "1:94",
+      "name": "Hero",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 700
+      },
+      "category": "backgrounds",
+      "filename": "hero@2x.png",
+      "relativePath": "images/backgrounds/hero@2x.png"
+    },
+    "Contents": {
+      "id": "1:96",
+      "name": "Contents",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/contents",
+      "bounds": {
+        "x": 85,
+        "y": 100,
+        "width": 1109,
+        "height": 388
+      },
+      "category": "general",
+      "filename": "contents@2x.png",
+      "relativePath": "images/general/contents@2x.png"
+    },
+    "Navigation Bar": {
+      "id": "1:97",
+      "name": "Navigation Bar",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/contents/navigation-bar",
+      "bounds": {
+        "x": 85,
+        "y": 100,
+        "width": 1109,
+        "height": 50
+      },
+      "category": "general",
+      "filename": "navigation-bar@2x.png",
+      "relativePath": "images/general/navigation-bar@2x.png"
+    },
+    "Frame 11": {
+      "id": "1:98",
+      "name": "Frame 11",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/contents/navigation-bar/frame-11",
+      "bounds": {
+        "x": 85,
+        "y": 103,
+        "width": 192,
+        "height": 45
+      },
+      "category": "general",
+      "filename": "frame-11@2x.png",
+      "relativePath": "images/general/frame-11@2x.png"
+    },
+    "Logo": {
+      "id": "1:99",
+      "name": "Logo",
+      "type": "INSTANCE",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/contents/navigation-bar/frame-11/logo",
+      "bounds": {
+        "x": 85,
+        "y": 103,
+        "width": 192,
+        "height": 45
+      },
+      "category": "branding",
+      "filename": "logo@2x.png",
+      "relativePath": "images/branding/logo@2x.png"
+    },
+    "Logo MArk": {
+      "id": "I1:99;2010:19",
+      "name": "Logo MArk",
+      "type": "VECTOR",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/contents/navigation-bar/frame-11/logo/logo-mark",
+      "bounds": {
+        "x": 85,
+        "y": 103,
+        "width": 45,
+        "height": 45
+      },
+      "category": "branding",
+      "filename": "logo-mark@2x.png",
+      "relativePath": "images/branding/logo-mark@2x.png"
+    },
+    "Page Tabs": {
+      "id": "1:100",
+      "name": "Page Tabs",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/contents/navigation-bar/page-tabs",
+      "bounds": {
+        "x": 443,
+        "y": 114,
+        "width": 369,
+        "height": 23
+      },
+      "category": "general",
+      "filename": "page-tabs@2x.png",
+      "relativePath": "images/general/page-tabs@2x.png"
+    },
+    "Frame 8": {
+      "id": "1:101",
+      "name": "Frame 8",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/contents/navigation-bar/page-tabs/frame-8",
+      "bounds": {
+        "x": 443,
+        "y": 114,
+        "width": 51,
+        "height": 23
+      },
+      "category": "general",
+      "filename": "frame-8@2x.png",
+      "relativePath": "images/general/frame-8@2x.png"
+    },
+    "Home": {
+      "id": "I1:102;127:55",
+      "name": "Home",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/contents/navigation-bar/page-tabs/frame-8/home/home",
+      "bounds": {
+        "x": 443,
+        "y": 114,
+        "width": 51,
+        "height": 23
+      },
+      "textContent": "Home",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "WIDTH_AND_HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "home@2x.png",
+      "relativePath": "images/general/home@2x.png"
+    },
+    "Frame 9": {
+      "id": "1:103",
+      "name": "Frame 9",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/contents/navigation-bar/page-tabs/frame-9",
+      "bounds": {
+        "x": 587,
+        "y": 114,
+        "width": 68,
+        "height": 23
+      },
+      "category": "general",
+      "filename": "frame-9@2x.png",
+      "relativePath": "images/general/frame-9@2x.png"
+    },
+    "Frame 10": {
+      "id": "1:105",
+      "name": "Frame 10",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/contents/navigation-bar/page-tabs/frame-10",
+      "bounds": {
+        "x": 747,
+        "y": 114,
+        "width": 66,
+        "height": 23
+      },
+      "category": "general",
+      "filename": "frame-10@2x.png",
+      "relativePath": "images/general/frame-10@2x.png"
+    },
+    "Contact": {
+      "id": "I1:106;127:57",
+      "name": "Contact",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/contents/navigation-bar/page-tabs/frame-10/contact/contact",
+      "bounds": {
+        "x": 747,
+        "y": 114,
+        "width": 66,
+        "height": 23
+      },
+      "textContent": "Contact",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "WIDTH_AND_HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "contact@2x.png",
+      "relativePath": "images/general/contact@2x.png"
+    },
+    "Hero Header": {
+      "id": "1:108",
+      "name": "Hero Header",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/contents/hero-header",
+      "bounds": {
+        "x": 162,
+        "y": 310,
+        "width": 955,
+        "height": 178
+      },
+      "category": "backgrounds",
+      "filename": "hero-header@2x.png",
+      "relativePath": "images/backgrounds/hero-header@2x.png"
+    },
+    "Frame 7": {
+      "id": "1:109",
+      "name": "Frame 7",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/contents/hero-header/frame-7",
+      "bounds": {
+        "x": 162,
+        "y": 310,
+        "width": 955,
+        "height": 110
+      },
+      "category": "general",
+      "filename": "frame-7@2x.png",
+      "relativePath": "images/general/frame-7@2x.png"
+    },
+    "Hero Headline": {
+      "id": "1:110",
+      "name": "Hero Headline",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/contents/hero-header/frame-7/hero-headline",
+      "bounds": {
+        "x": 162,
+        "y": 310,
+        "width": 955,
+        "height": 110
+      },
+      "textContent": "AI-Powered Marketing & Business Automation With No Limits",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 46,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 55,
+        "lineHeightPercent": 95.65217590332031,
+        "lineHeightPercentFontSize": 119.56521606445312,
+        "lineHeightUnit": "PIXELS"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "backgrounds",
+      "filename": "hero-headline@2x.png",
+      "relativePath": "images/backgrounds/hero-headline@2x.png"
+    },
+    "Frame 6": {
+      "id": "1:111",
+      "name": "Frame 6",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/contents/hero-header/frame-6",
+      "bounds": {
+        "x": 229,
+        "y": 442,
+        "width": 822,
+        "height": 46
+      },
+      "category": "general",
+      "filename": "frame-6@2x.png",
+      "relativePath": "images/general/frame-6@2x.png"
+    },
+    "Hero Subheadline": {
+      "id": "1:112",
+      "name": "Hero Subheadline",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/contents/hero-header/frame-6/hero-subheadline",
+      "bounds": {
+        "x": 229,
+        "y": 442,
+        "width": 822,
+        "height": 46
+      },
+      "textContent": "Stop settling for human-speed creative and manual processes. Start exploring what AI can do for your campaigns and operations",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "backgrounds",
+      "filename": "hero-subheadline@2x.png",
+      "relativePath": "images/backgrounds/hero-subheadline@2x.png"
+    },
+    "Made for Marketers by Marketers ✦ Powered by AI ✦ Made for Marketers by Marketers ✦ Powered by AI ✦ Made for Marketers by Marketers": {
+      "id": "1:115",
+      "name": "Made for Marketers by Marketers ✦ Powered by AI ✦ Made for Marketers by Marketers ✦ Powered by AI ✦ Made for Marketers by Marketers",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/latest---09jul2025/hero/frame-1/frame-2/made-for-marketers-by-marketers-powered-by-ai-made",
+      "bounds": {
+        "x": 15,
+        "y": 11,
+        "width": 1250,
+        "height": 23
+      },
+      "textContent": "Made for Marketers by Marketers  ✦  Powered by AI   ✦  Made for Marketers by Marketers  ✦  Powered by AI  ✦  Made for Marketers by Marketers",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "WIDTH_AND_HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "made-for-marketers-by-marketers-powered-by-ai-made@2x.png",
+      "relativePath": "images/general/made-for-marketers-by-marketers-powered-by-ai-made@2x.png"
+    },
+    "S4": {
+      "id": "1:41",
+      "name": "S4",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/s4",
+      "bounds": {
+        "x": 0,
+        "y": 2081,
+        "width": 1280,
+        "height": 438
+      },
+      "category": "general",
+      "filename": "s4@2x.png",
+      "relativePath": "images/general/s4@2x.png"
+    },
+    "S4 Contents": {
+      "id": "1:42",
+      "name": "S4 Contents",
+      "type": "FRAME",
+      "page": "Element Background",
+      "path": "element-background/s4/s4-contents",
+      "bounds": {
+        "x": 86,
+        "y": 2153,
+        "width": 1108,
+        "height": 290
+      },
+      "category": "general",
+      "filename": "s4-contents@2x.png",
+      "relativePath": "images/general/s4-contents@2x.png"
+    },
+    "S4 Body 4": {
+      "id": "1:43",
+      "name": "S4 Body 4",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/s4/s4-contents/s4-body-4",
+      "bounds": {
+        "x": 606,
+        "y": 2374,
+        "width": 588,
+        "height": 46
+      },
+      "textContent": "The question is: Do you want to help write the playbook, or wait for someone else to hand you a copy?",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "JUSTIFIED",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s4-body-4@2x.png",
+      "relativePath": "images/general/s4-body-4@2x.png"
+    },
+    "S4 Body 3": {
+      "id": "1:44",
+      "name": "S4 Body 3",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/s4/s4-contents/s4-body-3",
+      "bounds": {
+        "x": 606,
+        "y": 2346,
+        "width": 588,
+        "height": 23
+      },
+      "textContent": "The question isn't whether AI will transform how you do business. ",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "JUSTIFIED",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s4-body-3@2x.png",
+      "relativePath": "images/general/s4-body-3@2x.png"
+    },
+    "S4 Body 2": {
+      "id": "1:45",
+      "name": "S4 Body 2",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/s4/s4-contents/s4-body-2",
+      "bounds": {
+        "x": 606,
+        "y": 2227,
+        "width": 588,
+        "height": 92
+      },
+      "textContent": "We're not another agency promising magical solutions. We're explorers mapping uncharted territory in AI-powered marketing, and we're looking for pioneering clients who want to discover this frontier with us.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "JUSTIFIED",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s4-body-2@2x.png",
+      "relativePath": "images/general/s4-body-2@2x.png"
+    },
+    "S4 Body 1": {
+      "id": "1:46",
+      "name": "S4 Body 1",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/s4/s4-contents/s4-body-1",
+      "bounds": {
+        "x": 606,
+        "y": 2153,
+        "width": 588,
+        "height": 69
+      },
+      "textContent": "MindsheepLabs exists because brilliant marketers were getting outgunned by teams with bigger budgets and faster systems. The playing field isn't level—but AI is about to flip the table.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "JUSTIFIED",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s4-body-1@2x.png",
+      "relativePath": "images/general/s4-body-1@2x.png"
+    },
+    "S4 Headline": {
+      "id": "1:47",
+      "name": "S4 Headline",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/s4/s4-contents/s4-headline",
+      "bounds": {
+        "x": 86,
+        "y": 2227,
+        "width": 488,
+        "height": 135
+      },
+      "textContent": "Great marketers shouldn't lose to inferior competitors with better systems.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "fontSize": 36,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 45,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s4-headline@2x.png",
+      "relativePath": "images/general/s4-headline@2x.png"
+    },
+    "S4 Label": {
+      "id": "1:48",
+      "name": "S4 Label",
+      "type": "TEXT",
+      "page": "Element Background",
+      "path": "element-background/s4/s4-contents/s4-label",
+      "bounds": {
+        "x": 86,
+        "y": 2153,
+        "width": 134,
+        "height": 23
+      },
+      "textContent": "About Us",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Medium",
+        "fontStyle": "Medium",
+        "fontWeight": 500,
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568632125854,
+            "g": 0.3294117748737335,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s4-label@2x.png",
+      "relativePath": "images/general/s4-label@2x.png"
+    }
+  },
+  "PNG background": {
+    "Latest - 09JUL2025": {
+      "id": "8:20",
+      "name": "Latest - 09JUL2025",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 3348
+      },
+      "category": "general",
+      "filename": "latest---09jul2025@2x.png",
+      "relativePath": "images/general/latest---09jul2025@2x.png"
+    },
+    "Footer": {
+      "id": "8:21",
+      "name": "Footer",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/footer",
+      "bounds": {
+        "x": 0,
+        "y": 2960,
+        "width": 1280,
+        "height": 388
+      },
+      "category": "general",
+      "filename": "footer@2x.png",
+      "relativePath": "images/general/footer@2x.png"
+    },
+    "Footer Contents": {
+      "id": "8:22",
+      "name": "Footer Contents",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/footer/footer-contents",
+      "bounds": {
+        "x": 86,
+        "y": 3013,
+        "width": 1108,
+        "height": 335
+      },
+      "category": "general",
+      "filename": "footer-contents@2x.png",
+      "relativePath": "images/general/footer-contents@2x.png"
+    },
+    "Footer Text": {
+      "id": "8:23",
+      "name": "Footer Text",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/footer/footer-contents/footer-text",
+      "bounds": {
+        "x": 86,
+        "y": 3013,
+        "width": 1108,
+        "height": 109
+      },
+      "category": "general",
+      "filename": "footer-text@2x.png",
+      "relativePath": "images/general/footer-text@2x.png"
+    },
+    "Footer Quick Links": {
+      "id": "8:24",
+      "name": "Footer Quick Links",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/footer/footer-contents/footer-text/footer-quick-links",
+      "bounds": {
+        "x": 86,
+        "y": 3013,
+        "width": 419,
+        "height": 109
+      },
+      "category": "general",
+      "filename": "footer-quick-links@2x.png",
+      "relativePath": "images/general/footer-quick-links@2x.png"
+    },
+    "Page Links": {
+      "id": "8:25",
+      "name": "Page Links",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/footer/footer-contents/footer-text/footer-quick-links/page-links",
+      "bounds": {
+        "x": 86,
+        "y": 3013,
+        "width": 133,
+        "height": 109
+      },
+      "category": "general",
+      "filename": "page-links@2x.png",
+      "relativePath": "images/general/page-links@2x.png"
+    },
+    "Mission & Vision": {
+      "id": "8:26",
+      "name": "Mission & Vision",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/footer/footer-contents/footer-text/footer-quick-links/page-links/mission-vision",
+      "bounds": {
+        "x": 86,
+        "y": 3013,
+        "width": 133,
+        "height": 23
+      },
+      "textContent": "Mission & Vision",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "mission-vision@2x.png",
+      "relativePath": "images/general/mission-vision@2x.png"
+    },
+    "Benefits": {
+      "id": "I8:97;127:56",
+      "name": "Benefits",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/contents/navigation-bar/page-tabs/frame-9/benefits/benefits",
+      "bounds": {
+        "x": 587,
+        "y": 114,
+        "width": 68,
+        "height": 23
+      },
+      "textContent": "Benefits",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "WIDTH_AND_HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "benefits@2x.png",
+      "relativePath": "images/general/benefits@2x.png"
+    },
+    "About Us": {
+      "id": "8:28",
+      "name": "About Us",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/footer/footer-contents/footer-text/footer-quick-links/page-links/about-us",
+      "bounds": {
+        "x": 86,
+        "y": 3099,
+        "width": 133,
+        "height": 23
+      },
+      "textContent": "About Us",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "about-us@2x.png",
+      "relativePath": "images/general/about-us@2x.png"
+    },
+    "Contact Details": {
+      "id": "8:29",
+      "name": "Contact Details",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/footer/footer-contents/footer-text/footer-quick-links/contact-details",
+      "bounds": {
+        "x": 330,
+        "y": 3013,
+        "width": 175,
+        "height": 66
+      },
+      "category": "general",
+      "filename": "contact-details@2x.png",
+      "relativePath": "images/general/contact-details@2x.png"
+    },
+    "Email": {
+      "id": "8:30",
+      "name": "Email",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/footer/footer-contents/footer-text/footer-quick-links/contact-details/email",
+      "bounds": {
+        "x": 330,
+        "y": 3013,
+        "width": 175,
+        "height": 23
+      },
+      "textContent": "example@email.com",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "email@2x.png",
+      "relativePath": "images/general/email@2x.png"
+    },
+    "Number": {
+      "id": "8:31",
+      "name": "Number",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/footer/footer-contents/footer-text/footer-quick-links/contact-details/number",
+      "bounds": {
+        "x": 330,
+        "y": 3056,
+        "width": 175,
+        "height": 23
+      },
+      "textContent": "+12 345 678",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "number@2x.png",
+      "relativePath": "images/general/number@2x.png"
+    },
+    "Copyright Label": {
+      "id": "8:32",
+      "name": "Copyright Label",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/footer/footer-contents/footer-text/copyright-label",
+      "bounds": {
+        "x": 833,
+        "y": 3013,
+        "width": 361,
+        "height": 23
+      },
+      "textContent": "MindsheepLabs © 2025 All Rights Reserved",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "copyright-label@2x.png",
+      "relativePath": "images/general/copyright-label@2x.png"
+    },
+    "Footer Watermark": {
+      "id": "8:33",
+      "name": "Footer Watermark",
+      "type": "INSTANCE",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/footer/footer-contents/footer-watermark",
+      "bounds": {
+        "x": 86,
+        "y": 3199,
+        "width": 1108,
+        "height": 149
+      },
+      "category": "general",
+      "filename": "footer-watermark@2x.png",
+      "relativePath": "images/general/footer-watermark@2x.png"
+    },
+    "S4": {
+      "id": "8:34",
+      "name": "S4",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s4",
+      "bounds": {
+        "x": 0,
+        "y": 2072,
+        "width": 1280,
+        "height": 438
+      },
+      "category": "general",
+      "filename": "s4@2x.png",
+      "relativePath": "images/general/s4@2x.png"
+    },
+    "S4 Contents": {
+      "id": "8:35",
+      "name": "S4 Contents",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s4/s4-contents",
+      "bounds": {
+        "x": 86,
+        "y": 2144,
+        "width": 1108,
+        "height": 290
+      },
+      "category": "general",
+      "filename": "s4-contents@2x.png",
+      "relativePath": "images/general/s4-contents@2x.png"
+    },
+    "S4 Body 4": {
+      "id": "8:36",
+      "name": "S4 Body 4",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s4/s4-contents/s4-body-4",
+      "bounds": {
+        "x": 606,
+        "y": 2365,
+        "width": 588,
+        "height": 46
+      },
+      "textContent": "The question is: Do you want to help write the playbook, or wait for someone else to hand you a copy?",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "JUSTIFIED",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s4-body-4@2x.png",
+      "relativePath": "images/general/s4-body-4@2x.png"
+    },
+    "S4 Body 3": {
+      "id": "8:37",
+      "name": "S4 Body 3",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s4/s4-contents/s4-body-3",
+      "bounds": {
+        "x": 606,
+        "y": 2337,
+        "width": 588,
+        "height": 23
+      },
+      "textContent": "The question isn't whether AI will transform how you do business. ",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "JUSTIFIED",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s4-body-3@2x.png",
+      "relativePath": "images/general/s4-body-3@2x.png"
+    },
+    "S4 Body 2": {
+      "id": "8:38",
+      "name": "S4 Body 2",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s4/s4-contents/s4-body-2",
+      "bounds": {
+        "x": 606,
+        "y": 2218,
+        "width": 588,
+        "height": 92
+      },
+      "textContent": "We're not another agency promising magical solutions. We're explorers mapping uncharted territory in AI-powered marketing, and we're looking for pioneering clients who want to discover this frontier with us.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "JUSTIFIED",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s4-body-2@2x.png",
+      "relativePath": "images/general/s4-body-2@2x.png"
+    },
+    "S4 Body 1": {
+      "id": "8:39",
+      "name": "S4 Body 1",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s4/s4-contents/s4-body-1",
+      "bounds": {
+        "x": 606,
+        "y": 2144,
+        "width": 588,
+        "height": 69
+      },
+      "textContent": "MindsheepLabs exists because brilliant marketers were getting outgunned by teams with bigger budgets and faster systems. The playing field isn't level—but AI is about to flip the table.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "JUSTIFIED",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s4-body-1@2x.png",
+      "relativePath": "images/general/s4-body-1@2x.png"
+    },
+    "S4 Headline": {
+      "id": "8:40",
+      "name": "S4 Headline",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s4/s4-contents/s4-headline",
+      "bounds": {
+        "x": 86,
+        "y": 2218,
+        "width": 488,
+        "height": 135
+      },
+      "textContent": "Great marketers shouldn't lose to inferior competitors with better systems.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "fontSize": 36,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 45,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s4-headline@2x.png",
+      "relativePath": "images/general/s4-headline@2x.png"
+    },
+    "S4 Label": {
+      "id": "8:41",
+      "name": "S4 Label",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s4/s4-contents/s4-label",
+      "bounds": {
+        "x": 86,
+        "y": 2144,
+        "width": 134,
+        "height": 23
+      },
+      "textContent": "About Us",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Medium",
+        "fontStyle": "Medium",
+        "fontWeight": 500,
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568632125854,
+            "g": 0.3294117748737335,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s4-label@2x.png",
+      "relativePath": "images/general/s4-label@2x.png"
+    },
+    "S3": {
+      "id": "8:42",
+      "name": "S3",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3",
+      "bounds": {
+        "x": 0,
+        "y": 1224,
+        "width": 1280,
+        "height": 848
+      },
+      "category": "general",
+      "filename": "s3@2x.png",
+      "relativePath": "images/general/s3@2x.png"
+    },
+    "S3 Contents": {
+      "id": "8:43",
+      "name": "S3 Contents",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents",
+      "bounds": {
+        "x": 85,
+        "y": 1296,
+        "width": 1110,
+        "height": 704
+      },
+      "category": "general",
+      "filename": "s3-contents@2x.png",
+      "relativePath": "images/general/s3-contents@2x.png"
+    },
+    "S3 Header": {
+      "id": "8:44",
+      "name": "S3 Header",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/s3-header",
+      "bounds": {
+        "x": 85,
+        "y": 1297,
+        "width": 1110,
+        "height": 100
+      },
+      "category": "general",
+      "filename": "s3-header@2x.png",
+      "relativePath": "images/general/s3-header@2x.png"
+    },
+    "S3 Label": {
+      "id": "8:45",
+      "name": "S3 Label",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/s3-header/s3-label",
+      "bounds": {
+        "x": 576,
+        "y": 1297,
+        "width": 129,
+        "height": 23
+      },
+      "textContent": "Benefits",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Medium",
+        "fontStyle": "Medium",
+        "fontWeight": 500,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568632125854,
+            "g": 0.3294117748737335,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s3-label@2x.png",
+      "relativePath": "images/general/s3-label@2x.png"
+    },
+    "S3 Headline": {
+      "id": "8:46",
+      "name": "S3 Headline",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/s3-header/s3-headline",
+      "bounds": {
+        "x": 85,
+        "y": 1352,
+        "width": 1110,
+        "height": 45
+      },
+      "textContent": "What happens when you stop accepting marketing limitations?",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 36,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 45,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s3-headline@2x.png",
+      "relativePath": "images/general/s3-headline@2x.png"
+    },
+    "Benefits 1": {
+      "id": "8:48",
+      "name": "Benefits 1",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-1",
+      "bounds": {
+        "x": 88,
+        "y": 1429,
+        "width": 356,
+        "height": 237
+      },
+      "category": "general",
+      "filename": "benefits-1@2x.png",
+      "relativePath": "images/general/benefits-1@2x.png"
+    },
+    "High Voltage": {
+      "id": "8:49",
+      "name": "High Voltage",
+      "type": "INSTANCE",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-1/high-voltage",
+      "bounds": {
+        "x": 110,
+        "y": 1449,
+        "width": 38,
+        "height": 38
+      },
+      "category": "general",
+      "filename": "high-voltage@2x.png",
+      "relativePath": "images/general/high-voltage@2x.png"
+    },
+    "B1 Header": {
+      "id": "8:50",
+      "name": "B1 Header",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-1/b1-header",
+      "bounds": {
+        "x": 110,
+        "y": 1498,
+        "width": 300,
+        "height": 46
+      },
+      "textContent": "Brand-Consistent Imagery at Inhuman Speed",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b1-header@2x.png",
+      "relativePath": "images/general/b1-header@2x.png"
+    },
+    "B1 Body": {
+      "id": "8:51",
+      "name": "B1 Body",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-1/b1-body",
+      "bounds": {
+        "x": 110,
+        "y": 1555,
+        "width": 300,
+        "height": 90
+      },
+      "textContent": "Why hire 10 models when one can become 100? We're exploring AI image generation with face consistency—authorized individual replication that lets your brand personalities show up everywhere.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 14,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 17.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b1-body@2x.png",
+      "relativePath": "images/general/b1-body@2x.png"
+    },
+    "Benefits 2": {
+      "id": "8:52",
+      "name": "Benefits 2",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-2",
+      "bounds": {
+        "x": 462,
+        "y": 1429,
+        "width": 356,
+        "height": 237
+      },
+      "category": "general",
+      "filename": "benefits-2@2x.png",
+      "relativePath": "images/general/benefits-2@2x.png"
+    },
+    "Magic Wand": {
+      "id": "8:53",
+      "name": "Magic Wand",
+      "type": "INSTANCE",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-2/magic-wand",
+      "bounds": {
+        "x": 490,
+        "y": 1450,
+        "width": 36,
+        "height": 36
+      },
+      "category": "general",
+      "filename": "magic-wand@2x.png",
+      "relativePath": "images/general/magic-wand@2x.png"
+    },
+    "B2 Headline": {
+      "id": "8:54",
+      "name": "B2 Headline",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-2/b2-headline",
+      "bounds": {
+        "x": 490,
+        "y": 1496,
+        "width": 300,
+        "height": 46
+      },
+      "textContent": "Marketing Automation That Doesn't Feel Automated",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b2-headline@2x.png",
+      "relativePath": "images/general/b2-headline@2x.png"
+    },
+    "B2 Body": {
+      "id": "8:55",
+      "name": "B2 Body",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-2/b2-body",
+      "bounds": {
+        "x": 490,
+        "y": 1552,
+        "width": 300,
+        "height": 90
+      },
+      "textContent": "Campaigns that generate content automatically but nothing goes live without your approval. Human-guided automation that scales your output without sacrificing your voice.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 14,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 17.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b2-body@2x.png",
+      "relativePath": "images/general/b2-body@2x.png"
+    },
+    "Benefits 3": {
+      "id": "8:56",
+      "name": "Benefits 3",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-3",
+      "bounds": {
+        "x": 836,
+        "y": 1429,
+        "width": 356,
+        "height": 237
+      },
+      "category": "general",
+      "filename": "benefits-3@2x.png",
+      "relativePath": "images/general/benefits-3@2x.png"
+    },
+    "Direct Hit": {
+      "id": "8:57",
+      "name": "Direct Hit",
+      "type": "INSTANCE",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-3/direct-hit",
+      "bounds": {
+        "x": 864,
+        "y": 1446,
+        "width": 36,
+        "height": 36
+      },
+      "category": "general",
+      "filename": "direct-hit@2x.png",
+      "relativePath": "images/general/direct-hit@2x.png"
+    },
+    "B3 Headline": {
+      "id": "8:58",
+      "name": "B3 Headline",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-3/b3-headline",
+      "bounds": {
+        "x": 864,
+        "y": 1496,
+        "width": 300,
+        "height": 46
+      },
+      "textContent": "Business Processes That Actually Process",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b3-headline@2x.png",
+      "relativePath": "images/general/b3-headline@2x.png"
+    },
+    "B3 Body": {
+      "id": "8:59",
+      "name": "B3 Body",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-3/b3-body",
+      "bounds": {
+        "x": 864,
+        "y": 1556,
+        "width": 287,
+        "height": 72
+      },
+      "textContent": "Email sequences, proposals, workflow bottlenecks—we're automating the stuff eating your team's time so they can focus on work that moves needles.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 14,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 17.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b3-body@2x.png",
+      "relativePath": "images/general/b3-body@2x.png"
+    },
+    "Benefits 4": {
+      "id": "8:60",
+      "name": "Benefits 4",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-4",
+      "bounds": {
+        "x": 88,
+        "y": 1682,
+        "width": 356,
+        "height": 237
+      },
+      "category": "general",
+      "filename": "benefits-4@2x.png",
+      "relativePath": "images/general/benefits-4@2x.png"
+    },
+    "Magnet": {
+      "id": "8:61",
+      "name": "Magnet",
+      "type": "INSTANCE",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-4/magnet",
+      "bounds": {
+        "x": 110,
+        "y": 1707,
+        "width": 31,
+        "height": 31
+      },
+      "category": "general",
+      "filename": "magnet@2x.png",
+      "relativePath": "images/general/magnet@2x.png"
+    },
+    "B4 Headline": {
+      "id": "8:62",
+      "name": "B4 Headline",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-4/b4-headline",
+      "bounds": {
+        "x": 110,
+        "y": 1751,
+        "width": 300,
+        "height": 46
+      },
+      "textContent": "Lead Magnets With Built-In Sales Teams",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b4-headline@2x.png",
+      "relativePath": "images/general/b4-headline@2x.png"
+    },
+    "B4 Body": {
+      "id": "8:63",
+      "name": "B4 Body",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-4/b4-body",
+      "bounds": {
+        "x": 110,
+        "y": 1810,
+        "width": 300,
+        "height": 72
+      },
+      "textContent": "Lead magnets that analyze prospects and generate custom proposals automatically. Your funnel becomes a conversion machine that works while you sleep.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 14,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 17.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b4-body@2x.png",
+      "relativePath": "images/general/b4-body@2x.png"
+    },
+    "Benefits 5": {
+      "id": "8:64",
+      "name": "Benefits 5",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-5",
+      "bounds": {
+        "x": 462,
+        "y": 1682,
+        "width": 356,
+        "height": 237
+      },
+      "category": "general",
+      "filename": "benefits-5@2x.png",
+      "relativePath": "images/general/benefits-5@2x.png"
+    },
+    "Gear": {
+      "id": "8:65",
+      "name": "Gear",
+      "type": "INSTANCE",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-5/gear",
+      "bounds": {
+        "x": 490,
+        "y": 1706,
+        "width": 36,
+        "height": 36
+      },
+      "category": "general",
+      "filename": "gear@2x.png",
+      "relativePath": "images/general/gear@2x.png"
+    },
+    "B5 Headline": {
+      "id": "8:66",
+      "name": "B5 Headline",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-5/b5-headline",
+      "bounds": {
+        "x": 490,
+        "y": 1752,
+        "width": 300,
+        "height": 46
+      },
+      "textContent": "Innovation Partnership, Not Vendor Relationship",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b5-headline@2x.png",
+      "relativePath": "images/general/b5-headline@2x.png"
+    },
+    "B5 Body": {
+      "id": "8:67",
+      "name": "B5 Body",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-5/b5-body",
+      "bounds": {
+        "x": 490,
+        "y": 1808,
+        "width": 300,
+        "height": 72
+      },
+      "textContent": "You're getting early access to marketing's future. As we discover what works, you're first in line for breakthroughs that'll make competitors scramble.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 14,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 17.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b5-body@2x.png",
+      "relativePath": "images/general/b5-body@2x.png"
+    },
+    "Benefits 6": {
+      "id": "8:68",
+      "name": "Benefits 6",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-6",
+      "bounds": {
+        "x": 836,
+        "y": 1682,
+        "width": 356,
+        "height": 237
+      },
+      "category": "general",
+      "filename": "benefits-6@2x.png",
+      "relativePath": "images/general/benefits-6@2x.png"
+    },
+    "Mechanical Arm": {
+      "id": "8:69",
+      "name": "Mechanical Arm",
+      "type": "INSTANCE",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-6/mechanical-arm",
+      "bounds": {
+        "x": 864,
+        "y": 1703,
+        "width": 33,
+        "height": 33
+      },
+      "category": "general",
+      "filename": "mechanical-arm@2x.png",
+      "relativePath": "images/general/mechanical-arm@2x.png"
+    },
+    "B6 Headline": {
+      "id": "8:70",
+      "name": "B6 Headline",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-6/b6-headline",
+      "bounds": {
+        "x": 864,
+        "y": 1760,
+        "width": 300,
+        "height": 23
+      },
+      "textContent": "Super-Employee Transformation",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b6-headline@2x.png",
+      "relativePath": "images/general/b6-headline@2x.png"
+    },
+    "B6 Body": {
+      "id": "8:71",
+      "name": "B6 Body",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s3/s3-contents/benefits/benefits-6/b6-body",
+      "bounds": {
+        "x": 864,
+        "y": 1807,
+        "width": 287,
+        "height": 90
+      },
+      "textContent": "What if your team could work at AI speed? We're exploring marketing automation and business process AI that turns your people into super-employees who accomplish in hours what used to take days.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 14,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 17.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "b6-body@2x.png",
+      "relativePath": "images/general/b6-body@2x.png"
+    },
+    "Button": {
+      "id": "8:109",
+      "name": "Button",
+      "type": "INSTANCE",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/button",
+      "bounds": {
+        "x": 532,
+        "y": 526,
+        "width": 216,
+        "height": 49
+      },
+      "category": "components",
+      "filename": "button@2x.png",
+      "relativePath": "images/components/button@2x.png"
+    },
+    "Button Label": {
+      "id": "I8:109;2033:490",
+      "name": "Button Label",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/button/button-label",
+      "bounds": {
+        "x": 590,
+        "y": 539,
+        "width": 100,
+        "height": 23
+      },
+      "textContent": "Get Started",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "WIDTH_AND_HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "components",
+      "filename": "button-label@2x.png",
+      "relativePath": "images/components/button-label@2x.png"
+    },
+    "S2": {
+      "id": "8:73",
+      "name": "S2",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s2",
+      "bounds": {
+        "x": 0,
+        "y": 700,
+        "width": 1280,
+        "height": 522
+      },
+      "category": "general",
+      "filename": "s2@2x.png",
+      "relativePath": "images/general/s2@2x.png"
+    },
+    "S2 Contents": {
+      "id": "8:74",
+      "name": "S2 Contents",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s2/s2-contents",
+      "bounds": {
+        "x": 202,
+        "y": 787,
+        "width": 876,
+        "height": 348
+      },
+      "category": "general",
+      "filename": "s2-contents@2x.png",
+      "relativePath": "images/general/s2-contents@2x.png"
+    },
+    "S2 Headline": {
+      "id": "8:75",
+      "name": "S2 Headline",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s2/s2-contents/s2-headline",
+      "bounds": {
+        "x": 209,
+        "y": 787,
+        "width": 862,
+        "height": 45
+      },
+      "textContent": "Here's what's killing your marketing ROI right now.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "WIDTH_AND_HEIGHT",
+        "fontSize": 36,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 45,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568632125854,
+            "g": 0.3294117748737335,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s2-headline@2x.png",
+      "relativePath": "images/general/s2-headline@2x.png"
+    },
+    "S2 Body 1": {
+      "id": "8:76",
+      "name": "S2 Body 1",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s2/s2-contents/s2-body-1",
+      "bounds": {
+        "x": 229,
+        "y": 856,
+        "width": 822,
+        "height": 46
+      },
+      "textContent": "You're burning budget on generic stock photos. Waiting weeks for creative that's outdated before it launches. Watching competitors move faster while you're stuck in revision hell.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s2-body-1@2x.png",
+      "relativePath": "images/general/s2-body-1@2x.png"
+    },
+    "S2 Body 2": {
+      "id": "8:77",
+      "name": "S2 Body 2",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s2/s2-contents/s2-body-2",
+      "bounds": {
+        "x": 229,
+        "y": 926,
+        "width": 822,
+        "height": 46
+      },
+      "textContent": "MindsheepLabs is exploring the frontier of AI-powered marketing—and we're taking select partners along for the ride. We're not replacing your team. We're giving them superpowers.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s2-body-2@2x.png",
+      "relativePath": "images/general/s2-body-2@2x.png"
+    },
+    "S2 Body 3": {
+      "id": "8:78",
+      "name": "S2 Body 3",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s2/s2-contents/s2-body-3",
+      "bounds": {
+        "x": 229,
+        "y": 996,
+        "width": 822,
+        "height": 69
+      },
+      "textContent": "Custom AI imagery with face consistency. Marketing automation with human control. Business processes that run themselves. Lead magnets that analyze prospects and write proposals automatically.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s2-body-3@2x.png",
+      "relativePath": "images/general/s2-body-3@2x.png"
+    },
+    "S2 Body 4": {
+      "id": "8:79",
+      "name": "S2 Body 4",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s2/s2-contents/s2-body-4",
+      "bounds": {
+        "x": 229,
+        "y": 1089,
+        "width": 822,
+        "height": 46
+      },
+      "textContent": "We're in discovery mode, testing what's possible, and we want marketers who aren't afraid to be first.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s2-body-4@2x.png",
+      "relativePath": "images/general/s2-body-4@2x.png"
+    },
+    "S5": {
+      "id": "8:80",
+      "name": "S5",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s5",
+      "bounds": {
+        "x": 0,
+        "y": 2511,
+        "width": 1280,
+        "height": 450
+      },
+      "category": "general",
+      "filename": "s5@2x.png",
+      "relativePath": "images/general/s5@2x.png"
+    },
+    "Frame 2": {
+      "id": "8:107",
+      "name": "Frame 2",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/frame-1/frame-2",
+      "bounds": {
+        "x": 15,
+        "y": 11,
+        "width": 1250,
+        "height": 23
+      },
+      "category": "general",
+      "filename": "frame-2@2x.png",
+      "relativePath": "images/general/frame-2@2x.png"
+    },
+    "S5 Headline": {
+      "id": "8:82",
+      "name": "S5 Headline",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s5/frame-2/s5-headline",
+      "bounds": {
+        "x": 269,
+        "y": 2648,
+        "width": 743,
+        "height": 58
+      },
+      "textContent": "Ready to explore what's possible?",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "WIDTH_AND_HEIGHT",
+        "fontSize": 46,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 57.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s5-headline@2x.png",
+      "relativePath": "images/general/s5-headline@2x.png"
+    },
+    "Frame 3": {
+      "id": "8:83",
+      "name": "Frame 3",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s5/frame-3",
+      "bounds": {
+        "x": 545,
+        "y": 2729,
+        "width": 191,
+        "height": 23
+      },
+      "category": "general",
+      "filename": "frame-3@2x.png",
+      "relativePath": "images/general/frame-3@2x.png"
+    },
+    "S5 Subheadline": {
+      "id": "8:84",
+      "name": "S5 Subheadline",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/s5/frame-3/s5-subheadline",
+      "bounds": {
+        "x": 545,
+        "y": 2729,
+        "width": 191,
+        "height": 23
+      },
+      "textContent": "Let's discover together.",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "WIDTH_AND_HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "s5-subheadline@2x.png",
+      "relativePath": "images/general/s5-subheadline@2x.png"
+    },
+    "Frame 1": {
+      "id": "8:106",
+      "name": "Frame 1",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/frame-1",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 45
+      },
+      "category": "general",
+      "filename": "frame-1@2x.png",
+      "relativePath": "images/general/frame-1@2x.png"
+    },
+    "Hero": {
+      "id": "8:87",
+      "name": "Hero",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 700
+      },
+      "category": "backgrounds",
+      "filename": "hero@2x.png",
+      "relativePath": "images/backgrounds/hero@2x.png"
+    },
+    "Contents": {
+      "id": "8:89",
+      "name": "Contents",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/contents",
+      "bounds": {
+        "x": 85,
+        "y": 100,
+        "width": 1109,
+        "height": 388
+      },
+      "category": "general",
+      "filename": "contents@2x.png",
+      "relativePath": "images/general/contents@2x.png"
+    },
+    "Navigation Bar": {
+      "id": "8:90",
+      "name": "Navigation Bar",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/contents/navigation-bar",
+      "bounds": {
+        "x": 85,
+        "y": 100,
+        "width": 1109,
+        "height": 50
+      },
+      "category": "general",
+      "filename": "navigation-bar@2x.png",
+      "relativePath": "images/general/navigation-bar@2x.png"
+    },
+    "Frame 11": {
+      "id": "8:91",
+      "name": "Frame 11",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/contents/navigation-bar/frame-11",
+      "bounds": {
+        "x": 85,
+        "y": 103,
+        "width": 192,
+        "height": 45
+      },
+      "category": "general",
+      "filename": "frame-11@2x.png",
+      "relativePath": "images/general/frame-11@2x.png"
+    },
+    "Logo": {
+      "id": "8:92",
+      "name": "Logo",
+      "type": "INSTANCE",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/contents/navigation-bar/frame-11/logo",
+      "bounds": {
+        "x": 85,
+        "y": 103,
+        "width": 192,
+        "height": 45
+      },
+      "category": "branding",
+      "filename": "logo@2x.png",
+      "relativePath": "images/branding/logo@2x.png"
+    },
+    "Page Tabs": {
+      "id": "8:93",
+      "name": "Page Tabs",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/contents/navigation-bar/page-tabs",
+      "bounds": {
+        "x": 443,
+        "y": 114,
+        "width": 369,
+        "height": 23
+      },
+      "category": "general",
+      "filename": "page-tabs@2x.png",
+      "relativePath": "images/general/page-tabs@2x.png"
+    },
+    "Frame 8": {
+      "id": "8:94",
+      "name": "Frame 8",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/contents/navigation-bar/page-tabs/frame-8",
+      "bounds": {
+        "x": 443,
+        "y": 114,
+        "width": 51,
+        "height": 23
+      },
+      "category": "general",
+      "filename": "frame-8@2x.png",
+      "relativePath": "images/general/frame-8@2x.png"
+    },
+    "Home": {
+      "id": "I8:95;127:55",
+      "name": "Home",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/contents/navigation-bar/page-tabs/frame-8/home/home",
+      "bounds": {
+        "x": 443,
+        "y": 114,
+        "width": 51,
+        "height": 23
+      },
+      "textContent": "Home",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "WIDTH_AND_HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "home@2x.png",
+      "relativePath": "images/general/home@2x.png"
+    },
+    "Frame 9": {
+      "id": "8:96",
+      "name": "Frame 9",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/contents/navigation-bar/page-tabs/frame-9",
+      "bounds": {
+        "x": 587,
+        "y": 114,
+        "width": 68,
+        "height": 23
+      },
+      "category": "general",
+      "filename": "frame-9@2x.png",
+      "relativePath": "images/general/frame-9@2x.png"
+    },
+    "Frame 10": {
+      "id": "8:98",
+      "name": "Frame 10",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/contents/navigation-bar/page-tabs/frame-10",
+      "bounds": {
+        "x": 747,
+        "y": 114,
+        "width": 66,
+        "height": 23
+      },
+      "category": "general",
+      "filename": "frame-10@2x.png",
+      "relativePath": "images/general/frame-10@2x.png"
+    },
+    "Contact": {
+      "id": "I8:99;127:57",
+      "name": "Contact",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/contents/navigation-bar/page-tabs/frame-10/contact/contact",
+      "bounds": {
+        "x": 747,
+        "y": 114,
+        "width": 66,
+        "height": 23
+      },
+      "textContent": "Contact",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "WIDTH_AND_HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "contact@2x.png",
+      "relativePath": "images/general/contact@2x.png"
+    },
+    "Hero Header": {
+      "id": "8:101",
+      "name": "Hero Header",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/contents/hero-header",
+      "bounds": {
+        "x": 162,
+        "y": 310,
+        "width": 955,
+        "height": 178
+      },
+      "category": "backgrounds",
+      "filename": "hero-header@2x.png",
+      "relativePath": "images/backgrounds/hero-header@2x.png"
+    },
+    "Frame 7": {
+      "id": "8:102",
+      "name": "Frame 7",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/contents/hero-header/frame-7",
+      "bounds": {
+        "x": 162,
+        "y": 310,
+        "width": 955,
+        "height": 110
+      },
+      "category": "general",
+      "filename": "frame-7@2x.png",
+      "relativePath": "images/general/frame-7@2x.png"
+    },
+    "Hero Headline": {
+      "id": "8:103",
+      "name": "Hero Headline",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/contents/hero-header/frame-7/hero-headline",
+      "bounds": {
+        "x": 162,
+        "y": 310,
+        "width": 955,
+        "height": 110
+      },
+      "textContent": "AI-Powered Marketing & Business Automation With No Limits",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 46,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 55,
+        "lineHeightPercent": 95.65217590332031,
+        "lineHeightPercentFontSize": 119.56521606445312,
+        "lineHeightUnit": "PIXELS"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "backgrounds",
+      "filename": "hero-headline@2x.png",
+      "relativePath": "images/backgrounds/hero-headline@2x.png"
+    },
+    "Frame 6": {
+      "id": "8:104",
+      "name": "Frame 6",
+      "type": "FRAME",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/contents/hero-header/frame-6",
+      "bounds": {
+        "x": 229,
+        "y": 442,
+        "width": 822,
+        "height": 46
+      },
+      "category": "general",
+      "filename": "frame-6@2x.png",
+      "relativePath": "images/general/frame-6@2x.png"
+    },
+    "Hero Subheadline": {
+      "id": "8:105",
+      "name": "Hero Subheadline",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/contents/hero-header/frame-6/hero-subheadline",
+      "bounds": {
+        "x": 229,
+        "y": 442,
+        "width": 822,
+        "height": 46
+      },
+      "textContent": "Stop settling for human-speed creative and manual processes. Start exploring what AI can do for your campaigns and operations",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-Regular",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "textAutoResize": "HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "backgrounds",
+      "filename": "hero-subheadline@2x.png",
+      "relativePath": "images/backgrounds/hero-subheadline@2x.png"
+    },
+    "Made for Marketers by Marketers ✦ Powered by AI ✦ Made for Marketers by Marketers ✦ Powered by AI ✦ Made for Marketers by Marketers": {
+      "id": "8:108",
+      "name": "Made for Marketers by Marketers ✦ Powered by AI ✦ Made for Marketers by Marketers ✦ Powered by AI ✦ Made for Marketers by Marketers",
+      "type": "TEXT",
+      "page": "PNG background",
+      "path": "png-background/latest---09jul2025/hero/frame-1/frame-2/made-for-marketers-by-marketers-powered-by-ai-made",
+      "bounds": {
+        "x": 15,
+        "y": 11,
+        "width": 1250,
+        "height": 23
+      },
+      "textContent": "Made for Marketers by Marketers  ✦  Powered by AI   ✦  Made for Marketers by Marketers  ✦  Powered by AI  ✦  Made for Marketers by Marketers",
+      "style": {
+        "fontFamily": "Quicksand",
+        "fontPostScriptName": "Quicksand-SemiBold",
+        "fontStyle": "SemiBold",
+        "fontWeight": 600,
+        "textAutoResize": "WIDTH_AND_HEIGHT",
+        "fontSize": 18,
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 22.5,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "category": "general",
+      "filename": "made-for-marketers-by-marketers-powered-by-ai-made@2x.png",
+      "relativePath": "images/general/made-for-marketers-by-marketers-powered-by-ai-made@2x.png"
+    }
+  }
+}
