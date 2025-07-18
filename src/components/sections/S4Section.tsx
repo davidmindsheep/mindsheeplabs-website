@@ -4,9 +4,9 @@ import React from 'react';
 
 export default function S4Section() {
   const bodyTexts = [
-    "MindsheepLabs exists because brilliant marketers were getting outgunned by teams with bigger budgets and faster systems. The playing field isn&apos;t level—but AI is about to flip the table.",
-    "We&apos;re not another agency promising magical solutions. We&apos;re explorers mapping uncharted territory in AI-powered marketing, and we&apos;re looking for pioneering clients who want to discover this frontier with us.",
-    "The question isn&apos;t whether AI will transform how you do business.",
+    "MindsheepLabs exists because brilliant marketers were getting outgunned by teams with bigger budgets and faster systems. The playing field isn't level—but AI is about to flip the table.",
+    "We're not another agency promising magical solutions. We're explorers mapping uncharted territory in AI-powered marketing, and we're looking for pioneering clients who want to discover this frontier with us.",
+    "The question isn't whether AI will transform how you do business.",
     "The question is: Do you want to help write the playbook, or wait for someone else to hand you a copy?"
   ];
 
@@ -21,7 +21,7 @@ export default function S4Section() {
               About Us
             </div>
             <h2 className="s4-headline">
-              Great marketers shouldn&apos;t lose to inferior competitors with better systems.
+              {"Great marketers shouldn't lose to inferior competitors with better systems."}
             </h2>
           </div>
 

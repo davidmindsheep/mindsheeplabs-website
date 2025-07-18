@@ -19,12 +19,12 @@ export default function S5Section() {
         <div className="max-w-[744px] mx-auto">
           {/* Main CTA Headline */}
           <h2 className="s5-headline !text-white mb-6">
-            Ready to explore what&apos;s possible?
+            {"Ready to explore what's possible?"}
           </h2>
           
           {/* CTA Subheadline */}
           <p className="hero-subheadline !text-white opacity-90 mb-12">
-            Let&apos;s discover together.
+            {"Let's discover together."}
           </p>
 
           {/* CTA Buttons */}

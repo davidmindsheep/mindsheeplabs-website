@@ -1,6 +1,6 @@
 'use client';
 
-import React from 'react';
+import React, { useState } from 'react';
 import Button from '../ui/Button';
 import AnimatedBubble from '../animations/AnimatedBubble';
 
@@ -44,6 +44,30 @@ export default function S3Section() {
     }
   ];
 
+  // State to track which cards are shaking
+  const [shakingCards, setShakingCards] = useState(new Array(benefits.length).fill(false));
+
+  // Handle hover to trigger shake animation
+  const handleCardHover = (cardIndex: number) => {
+    // Only trigger if not already shaking
+    if (!shakingCards[cardIndex]) {
+      setShakingCards(prev => {
+        const newShaking = [...prev];
+        newShaking[cardIndex] = true;
+        return newShaking;
+      });
+
+      // Stop shaking after animation completes (2 seconds)
+      setTimeout(() => {
+        setShakingCards(prev => {
+          const newShaking = [...prev];
+          newShaking[cardIndex] = false;
+          return newShaking;
+        });
+      }, 2000);
+    }
+  };
+
   return (
     <section id="benefits" className="bg-[var(--color-6)] py-24">
       <div className="max-w-[1280px] mx-auto px-[85px]">
@@ -60,7 +84,13 @@ export default function S3Section() {
         {/* Benefits Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 mb-16">
           {benefits.map((benefit, index) => (
-            <div key={index} className="bg-white rounded-lg p-8 shadow-sm hover:shadow-md transition-shadow duration-300">
+            <div 
+              key={index} 
+              className={`bg-white rounded-lg p-8 shadow-sm hover:shadow-md transition-shadow duration-300 ${
+                shakingCards[index] ? 'shake-animation' : ''
+              }`}
+              onMouseEnter={() => handleCardHover(index)}
+            >
               {/* Animated Icon */}
               <div className="mb-6">
                 <AnimatedBubble

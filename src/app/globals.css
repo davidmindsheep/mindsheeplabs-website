@@ -218,3 +218,22 @@ body {
 .animate-marquee {
   animation: marquee 20s linear infinite;
 }
+
+/* Shake animation for benefit cards */
+@keyframes shake {
+  0% { transform: rotateZ(0deg); }
+  10% { transform: rotateZ(-20deg); }
+  20% { transform: rotateZ(20deg); }
+  30% { transform: rotateZ(-15deg); }
+  40% { transform: rotateZ(15deg); }
+  50% { transform: rotateZ(-10deg); }
+  60% { transform: rotateZ(10deg); }
+  70% { transform: rotateZ(-5deg); }
+  80% { transform: rotateZ(5deg); }
+  90% { transform: rotateZ(-2deg); }
+  100% { transform: rotateZ(0deg); }
+}
+
+.shake-animation {
+  animation: shake 2s ease-in-out forwards;
+}

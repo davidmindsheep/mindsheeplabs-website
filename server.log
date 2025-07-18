@@ -31,3 +31,29 @@ To help make Turbopack better, report this error by clicking here: https://githu
 -----
 
  ✓ Compiled in 16.9s
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 2.8s
+ ⨯ Error: Cannot find module '../chunks/ssr/[turbopack]_runtime.js'
+Require stack:
+- /home/developer/figma_download/nextjs-website/.next/server/pages/_document.js
+- /home/developer/figma_download/nextjs-website/node_modules/next/dist/server/require.js
+- /home/developer/figma_download/nextjs-website/node_modules/next/dist/server/load-components.js
+- /home/developer/figma_download/nextjs-website/node_modules/next/dist/build/utils.js
+- /home/developer/figma_download/nextjs-website/node_modules/next/dist/build/swc/options.js
+- /home/developer/figma_download/nextjs-website/node_modules/next/dist/build/swc/index.js
+- /home/developer/figma_download/nextjs-website/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/developer/figma_download/nextjs-website/node_modules/next/dist/server/config.js
+- /home/developer/figma_download/nextjs-website/node_modules/next/dist/server/next.js
+- /home/developer/figma_download/nextjs-website/node_modules/next/dist/server/lib/start-server.js
+    at Object.<anonymous> (.next/server/pages/_document.js:2:17) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 3419ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/developer/figma_download/nextjs-website/.next/server/app/favicon.ico/[__metadata_id__]/route/app-paths-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/developer/figma_download/nextjs-website/.next/server/app/favicon.ico/[__metadata_id__]/route/app-paths-manifest.json'
+}
+[?25h
