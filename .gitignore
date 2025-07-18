@@ -34,3 +34,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# deployment helpers (development only)
+deploy-to-vercel.js
+deployment-helper.html
+deployment-server.js
+prepare-deployment.js
+deployment-package/
+*.tar.gz
