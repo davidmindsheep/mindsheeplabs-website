@@ -1,29 +1,4 @@
 {
   "version": 2,
-  "name": "mindsheeplabs-website",
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/next"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/assets/(.*)",
-      "dest": "/assets/$1"
-    },
-    {
-      "src": "/public/(.*)",
-      "dest": "/public/$1"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/$1"
-    }
-  ],
-  "functions": {
-    "src/app/**/*.{js,ts,jsx,tsx}": {
-      "runtime": "@vercel/next"
-    }
-  }
+  "name": "mindsheeplabs-website"
 }
