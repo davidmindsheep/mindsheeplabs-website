@@ -42,3 +42,8 @@ deployment-server.js
 prepare-deployment.js
 deployment-package/
 *.tar.gz
+deploy-with-github-token.js
+
+# sensitive configuration
+config.json
+figma-assets/assets-manifest.json
