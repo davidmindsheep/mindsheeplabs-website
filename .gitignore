@@ -47,3 +47,9 @@ deploy-with-github-token.js
 # sensitive configuration
 config.json
 figma-assets/assets-manifest.json
+
+# test files and screenshots
+test-*.js
+mobile-menu-*.png
+*.log
+test-*.png

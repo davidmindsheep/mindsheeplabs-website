@@ -42,8 +42,8 @@
 .hero-headline {
   font-family: 'Quicksand', sans-serif;
   font-weight: 600;
-  font-size: clamp(2.3000000000000003rem, 2.875rem + 0.5vw, 3.4499999999999997rem);
-  line-height: 55px;
+  font-size: clamp(1.8rem, 4vw, 3.45rem);
+  line-height: clamp(2.2rem, 5vw, 4.125rem);
   letter-spacing: 0px;
   text-align: center;
   color: var(--gray-900);
@@ -52,8 +52,8 @@
 .hero-subheadline {
   font-family: 'Quicksand', sans-serif;
   font-weight: 400;
-  font-size: clamp(0.9rem, 1.125rem + 0.5vw, 1.3499999999999999rem);
-  line-height: 22.5px;
+  font-size: clamp(1rem, 2.5vw, 1.35rem);
+  line-height: clamp(1.5rem, 3vw, 2.025rem);
   letter-spacing: 0px;
   text-align: center;
   color: var(--gray-900);
@@ -62,8 +62,8 @@
 .s2-headline {
   font-family: 'Quicksand', sans-serif;
   font-weight: 600;
-  font-size: clamp(1.8rem, 2.25rem + 0.5vw, 2.6999999999999997rem);
-  line-height: 45px;
+  font-size: clamp(1.5rem, 3vw, 2.7rem);
+  line-height: clamp(1.8rem, 4vw, 3.2rem);
   letter-spacing: 0px;
   text-align: center;
   color: var(--gray-900);
@@ -72,8 +72,8 @@
 .s3-headline {
   font-family: 'Quicksand', sans-serif;
   font-weight: 600;
-  font-size: clamp(1.8rem, 2.25rem + 0.5vw, 2.6999999999999997rem);
-  line-height: 45px;
+  font-size: clamp(1.5rem, 3vw, 2.7rem);
+  line-height: clamp(1.8rem, 4vw, 3.2rem);
   letter-spacing: 0px;
   text-align: center;
   color: var(--gray-900);
@@ -82,8 +82,8 @@
 .s4-headline {
   font-family: 'Quicksand', sans-serif;
   font-weight: 600;
-  font-size: clamp(1.8rem, 2.25rem + 0.5vw, 2.6999999999999997rem);
-  line-height: 45px;
+  font-size: clamp(1.5rem, 3vw, 2.7rem);
+  line-height: clamp(1.8rem, 4vw, 3.2rem);
   letter-spacing: 0px;
   text-align: left;
   color: var(--gray-900);
@@ -92,8 +92,8 @@
 .s5-headline {
   font-family: 'Quicksand', sans-serif;
   font-weight: 600;
-  font-size: clamp(2.3000000000000003rem, 2.875rem + 0.5vw, 3.4499999999999997rem);
-  line-height: 57.5px;
+  font-size: clamp(1.8rem, 4vw, 3.45rem);
+  line-height: clamp(2.2rem, 5vw, 4.125rem);
   letter-spacing: 0px;
   text-align: center;
   color: var(--gray-900);
@@ -236,4 +236,38 @@ body {
 
 .shake-animation {
   animation: shake 2s ease-in-out forwards;
+}
+
+/* Mobile Touch Optimization */
+.touch-manipulation {
+  touch-action: manipulation;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+/* Mobile Menu Button Enhancements */
+button[role="button"] {
+  cursor: pointer;
+  -webkit-tap-highlight-color: rgba(253, 84, 0, 0.3);
+}
+
+/* Mobile-specific styles */
+@media (hover: none) and (pointer: coarse) {
+  /* Styles for touch devices */
+  button:hover {
+    /* Override hover effects on touch devices */
+    transform: none;
+  }
+  
+  button:active {
+    transform: scale(0.95);
+    background-color: rgba(253, 84, 0, 0.1);
+  }
+}
+
+/* Ensure proper mobile viewport interaction */
+html {
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
 }

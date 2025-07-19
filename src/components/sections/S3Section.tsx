@@ -69,11 +69,11 @@ export default function S3Section() {
   };
 
   return (
-    <section id="benefits" className="bg-[var(--color-6)] py-24">
-      <div className="max-w-[1280px] mx-auto px-[85px]">
+    <section id="benefits" className="bg-[var(--color-6)] py-8 sm:py-16 lg:py-24">
+      <div className="max-w-full sm:max-w-[768px] lg:max-w-[1280px] mx-auto px-4 sm:px-8 lg:px-[85px]">
         {/* Section Header */}
-        <div className="text-center mb-20">
-          <div className="inline-block bg-[var(--color-7)] text-white px-6 py-2 rounded-full text-sm font-medium mb-6">
+        <div className="text-center mb-8 sm:mb-12 lg:mb-20">
+          <div className="inline-block bg-[var(--color-7)] text-white px-4 sm:px-6 py-2 rounded-full text-sm font-medium mb-4 sm:mb-6">
             Benefits
           </div>
           <h2 className="s3-headline">
@@ -82,11 +82,11 @@ export default function S3Section() {
         </div>
 
         {/* Benefits Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 mb-16">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 lg:gap-12 mb-8 sm:mb-12 lg:mb-16">
           {benefits.map((benefit, index) => (
             <div 
               key={index} 
-              className={`bg-white rounded-lg p-8 shadow-sm hover:shadow-md transition-shadow duration-300 ${
+              className={`bg-white rounded-lg p-4 sm:p-6 lg:p-8 shadow-sm hover:shadow-md transition-shadow duration-300 ${
                 shakingCards[index] ? 'shake-animation' : ''
               }`}
               onMouseEnter={() => handleCardHover(index)}

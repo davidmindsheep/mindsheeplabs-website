@@ -11,13 +11,13 @@ export default function S4Section() {
   ];
 
   return (
-    <section className="bg-white py-24">
-      <div className="max-w-[1280px] mx-auto px-[86px]">
+    <section className="bg-white py-8 sm:py-16 lg:py-24">
+      <div className="max-w-full sm:max-w-[768px] lg:max-w-[1280px] mx-auto px-4 sm:px-8 lg:px-[86px]">
         {/* Two-column layout matching Figma design */}
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 sm:gap-8 lg:gap-12 items-start">
           {/* Left Column - About Us label and Headline */}
           <div className="lg:max-w-[488px]">
-            <div className="inline-block bg-[var(--color-5)] text-white px-6 py-2 rounded-full text-sm font-medium mb-6">
+            <div className="inline-block bg-[var(--color-5)] text-white px-4 sm:px-6 py-2 rounded-full text-sm font-medium mb-4 sm:mb-6">
               About Us
             </div>
             <h2 className="s4-headline">
@@ -26,7 +26,7 @@ export default function S4Section() {
           </div>
 
           {/* Right Column - Body Text */}
-          <div className="lg:max-w-[588px] space-y-8">
+          <div className="lg:max-w-[588px] space-y-4 sm:space-y-6 lg:space-y-8">
             {bodyTexts.map((text, index) => (
               <p key={index} className="body-text text-left">
                 {text}

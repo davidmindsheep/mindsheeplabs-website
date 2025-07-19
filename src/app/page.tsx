@@ -18,7 +18,7 @@ export default function Home() {
         {/* Animated Gradient Background */}
         <canvas 
           id="hero-canvas" 
-          className="absolute inset-0 w-full h-full opacity-80" 
+          className="absolute inset-0 w-full h-full opacity-80 pointer-events-none" 
           style={{ mixBlendMode: 'overlay' }}
         />
         {/* Marquee Text - Made for Marketers by Marketers */}
