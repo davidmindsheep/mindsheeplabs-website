@@ -120,11 +120,6 @@ export default function Header() {
               >
                 Contact
               </a>
-              <div className="pt-2 flex justify-center">
-                <Button onClick={() => console.log('Get Started clicked')}>
-                  Get Started
-                </Button>
-              </div>
             </div>
           </div>
         )}
