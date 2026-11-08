@@ -53,3 +53,7 @@ test-*.js
 mobile-menu-*.png
 *.log
 test-*.png
+
+# Claude Code local settings: saved "Don't ask again" rules can contain keys and passwords
+**/.claude/settings.local.json
+CLAUDE.local.md
